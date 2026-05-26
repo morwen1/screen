@@ -1,0 +1,72 @@
+{
+  "researchIds": [
+    "v1_ChdsU2NTYXNuRERwX296N0lQaU5tUDZBVRIXbFNjU2FzbkREcF9vejdJUGlObVA2QVU",
+    "v1_Chd1aW9TYXA3TkE3TGh6N0lQLW92UjhBdxIXdWlvU2FwN05BN0xoejdJUC1vdlI4QXc"
+  ],
+  "fileSearchStores": {
+    "context-37bd8ea2283a-1779574598": "fileSearchStores/context37bd8ea2283a17795745-obgy4m1m8hv2",
+    "context-37bd8ea2283a-1779575398": "fileSearchStores/context37bd8ea2283a17795753-j1wkggdjtnhu"
+  },
+  "uploadOperations": {},
+  "_hashCache": {
+    "fileSearchStores/context37bd8ea2283a17795745-obgy4m1m8hv2": {
+      "/home/morwen/Desktop/electronic_proyects/screen/.vscode/extensions.json": "74674f7bea8adf0af789a52ff11f5eead1737be6df3a207d781fc7f6c56d1fc4",
+      "/home/morwen/Desktop/electronic_proyects/screen/.vscode/settings.json": "18be9b6248258bc1ad70601640c3b318af5ab90ea57b67fa84e47ecb3e1a958d",
+      "/home/morwen/Desktop/electronic_proyects/screen/AGENTS.md": "4f3ffcfd5bce067fb32bce9c1aaf51ce0f3a802774ee1ba7773a5c95922ab920",
+      "/home/morwen/Desktop/electronic_proyects/screen/README.md": "f8a00691c3360a9aa304c461732709181561f0dc2f148305de96a55e0c47e991",
+      "/home/morwen/Desktop/electronic_proyects/screen/config.py": "34d8c48cd32174f64a1a6821e8edd34200ca4345a06d5ec400b2971509d4f4e8",
+      "/home/morwen/Desktop/electronic_proyects/screen/lib/max6675.py": "4028363403188bd86d116dd740f035c706830d87b4eff14a04711ba63ceb79b1",
+      "/home/morwen/Desktop/electronic_proyects/screen/lib/ssd1306.py": "b9f5331c75297774bced61bdfd12c37d4363336d064d7cf58967c88d807efbe5",
+      "/home/morwen/Desktop/electronic_proyects/screen/main.py": "650835390c51a0447b5c6fb8116fdca80e4f16af7135d8cefb1a2552f249463d",
+      "/home/morwen/Desktop/electronic_proyects/screen/modules/display.py": "5bc8c46a9279d805f52b02599dc0b3e20b8290cceb78af77806c7667360534f8",
+      "/home/morwen/Desktop/electronic_proyects/screen/modules/fan_control.py": "df93c7576500a337b3cee9a7ce21fd3700b727339d42a1ef1c8ea208bb7fac85",
+      "/home/morwen/Desktop/electronic_proyects/screen/modules/temperature.py": "20581dea4ef4c4815c31e2f905c8c44626fd22d67028ad513c434a2f062001b8",
+      "/home/morwen/Desktop/electronic_proyects/screen/opencode.json": "fa8baed742c2a0d793ac9f4da87cdaf9c004a61014c14a415d5aa126a40b1546",
+      "/home/morwen/Desktop/electronic_proyects/screen/screen.py": "2a40acf89b81831697542477d50f26bd09139f26c2d52c40f20e029ffff7b177",
+      "/home/morwen/Desktop/electronic_proyects/screen/temp_sensors.py": "20e0bb58f7c5a8b82cb75bf49b21d0313ed1160baef301291a61be1988dff50e",
+      "/home/morwen/Desktop/electronic_proyects/screen/tests/test_max6675.py": "93eeec6f5cb11067808de4ac85832d2d24986d638fcb90f18252552be4b3f350",
+      "/home/morwen/Desktop/electronic_proyects/screen/tests/test_pins.py": "a962d4ea2c308bb3a297b2685ed499d8f27336c0571679751ce1e9f7486cee50",
+      "/home/morwen/Desktop/electronic_proyects/screen/tests/test_single_max6675.py": "8cceff61389f372957711e18b1b7db3a4135733a2ad1b2e07eb1d90b7bcc7e0d",
+      "/home/morwen/Desktop/electronic_proyects/screen/tests/test_spi_loopback.py": "408c8455e3042e5735baf1979b42ce189cf43bba693e3c9e03f7816e86b80d98"
+    },
+    "fileSearchStores/context37bd8ea2283a17795753-j1wkggdjtnhu": {
+      "/home/morwen/Desktop/electronic_proyects/screen/.gemini-research.json": "62a20cf539b39553b259ec4b945ed49c52a3737f6dc8274ab1859c97731b3212",
+      "/home/morwen/Desktop/electronic_proyects/screen/.vscode/extensions.json": "74674f7bea8adf0af789a52ff11f5eead1737be6df3a207d781fc7f6c56d1fc4",
+      "/home/morwen/Desktop/electronic_proyects/screen/.vscode/settings.json": "18be9b6248258bc1ad70601640c3b318af5ab90ea57b67fa84e47ecb3e1a958d",
+      "/home/morwen/Desktop/electronic_proyects/screen/AGENTS.md": "4f3ffcfd5bce067fb32bce9c1aaf51ce0f3a802774ee1ba7773a5c95922ab920",
+      "/home/morwen/Desktop/electronic_proyects/screen/README.md": "f8a00691c3360a9aa304c461732709181561f0dc2f148305de96a55e0c47e991",
+      "/home/morwen/Desktop/electronic_proyects/screen/config.py": "34d8c48cd32174f64a1a6821e8edd34200ca4345a06d5ec400b2971509d4f4e8",
+      "/home/morwen/Desktop/electronic_proyects/screen/lib/max6675.py": "4028363403188bd86d116dd740f035c706830d87b4eff14a04711ba63ceb79b1",
+      "/home/morwen/Desktop/electronic_proyects/screen/lib/ssd1306.py": "b9f5331c75297774bced61bdfd12c37d4363336d064d7cf58967c88d807efbe5",
+      "/home/morwen/Desktop/electronic_proyects/screen/main.py": "650835390c51a0447b5c6fb8116fdca80e4f16af7135d8cefb1a2552f249463d",
+      "/home/morwen/Desktop/electronic_proyects/screen/modules/display.py": "5bc8c46a9279d805f52b02599dc0b3e20b8290cceb78af77806c7667360534f8",
+      "/home/morwen/Desktop/electronic_proyects/screen/modules/fan_control.py": "df93c7576500a337b3cee9a7ce21fd3700b727339d42a1ef1c8ea208bb7fac85",
+      "/home/morwen/Desktop/electronic_proyects/screen/modules/temperature.py": "20581dea4ef4c4815c31e2f905c8c44626fd22d67028ad513c434a2f062001b8",
+      "/home/morwen/Desktop/electronic_proyects/screen/opencode.json": "fa8baed742c2a0d793ac9f4da87cdaf9c004a61014c14a415d5aa126a40b1546",
+      "/home/morwen/Desktop/electronic_proyects/screen/screen.py": "2a40acf89b81831697542477d50f26bd09139f26c2d52c40f20e029ffff7b177",
+      "/home/morwen/Desktop/electronic_proyects/screen/temp_sensors.py": "20e0bb58f7c5a8b82cb75bf49b21d0313ed1160baef301291a61be1988dff50e",
+      "/home/morwen/Desktop/electronic_proyects/screen/tests/test_max6675.py": "93eeec6f5cb11067808de4ac85832d2d24986d638fcb90f18252552be4b3f350",
+      "/home/morwen/Desktop/electronic_proyects/screen/tests/test_pins.py": "a962d4ea2c308bb3a297b2685ed499d8f27336c0571679751ce1e9f7486cee50",
+      "/home/morwen/Desktop/electronic_proyects/screen/tests/test_single_max6675.py": "8cceff61389f372957711e18b1b7db3a4135733a2ad1b2e07eb1d90b7bcc7e0d",
+      "/home/morwen/Desktop/electronic_proyects/screen/tests/test_spi_loopback.py": "408c8455e3042e5735baf1979b42ce189cf43bba693e3c9e03f7816e86b80d98"
+    }
+  },
+  "contextStores": {
+    "context-37bd8ea2283a-1779574598": "fileSearchStores/context37bd8ea2283a17795745-obgy4m1m8hv2",
+    "context-37bd8ea2283a-1779575398": "fileSearchStores/context37bd8ea2283a17795753-j1wkggdjtnhu"
+  },
+  "researchHistory": [
+    {
+      "id": "v1_ChdsU2NTYXNuRERwX296N0lQaU5tUDZBVRIXbFNjU2FzbkREcF9vejdJUGlObVA2QVU",
+      "duration_seconds": 310,
+      "grounded": true,
+      "timestamp": "2026-05-23T22:23:08Z"
+    },
+    {
+      "id": "v1_Chd1aW9TYXA3TkE3TGh6N0lQLW92UjhBdxIXdWlvU2FwN05BN0xoejdJUC1vdlI4QXc",
+      "duration_seconds": 220,
+      "grounded": true,
+      "timestamp": "2026-05-23T22:35:03Z"
+    }
+  ]
+}
